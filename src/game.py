@@ -1,6 +1,6 @@
 import pygame
 
-WIDTH, HEIGHT = 900, 500
+WIDTH, HEIGHT = 1000, 550
 WINDOW = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Connect Four")
 
